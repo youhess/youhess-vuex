@@ -1,4 +1,4 @@
-# youhess-vue2
+# youhess-vuex
 
 ## Project setup
 ```
